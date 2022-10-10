@@ -1,3 +1,3 @@
 # js-keyboard
 
-![preview](kb-in-action.gif)
+![preview](/media/kb-in-action.gif)
